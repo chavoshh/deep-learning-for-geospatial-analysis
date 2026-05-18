@@ -52,6 +52,11 @@ Data_Source/
 *.ckpt
 *.bin
 
+# macOS metadata junk
+__MACOSX/
+.DS_Store
+._*
+
 # Logs
 *.log
 runs/

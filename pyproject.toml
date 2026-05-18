@@ -1,7 +1,7 @@
 [project]
 name = "dl-geospatial-analysis"
 version = "0.1.0"
-description = "Add your description here"
+description = "An educational course to have an understanding about Depp Learning in GeoAI"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
