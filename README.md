@@ -7,6 +7,10 @@ An exercise to build U-Net models in PyTorch for satellite imagery, crop mapping
 This project uses [uv](https://docs.astral.sh/uv/) for Python and
 dependency management.
 
+## Data
+
+The data is available for download from "https://www.udemy.com/course/fundamentals-of-geoai-deep-learning-for-geospatial-analysis/?couponCode=CP260518SUMXLD" after the registration and full payment.
+
 ```bash
 git clone https://github.com/Chavoshh/Deep-Learning-for-Geospatial-Analysis.git
 cd DL-Geospatial-Analysis
